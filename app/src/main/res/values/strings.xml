@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bimbi Coffee</string>
+    <string name="this_is_my_shop_meoww">This is my Bimbi Coffee Shop, Meoww! Try scrolling :)</string>
+    <string name="click_me">Click me!</string>
+    <string name="click_method">Meow!</string>
+    <string name="empty">&#160;</string>
+    <string name="address">Address: 34 Catwalk street, Meow Town</string>
+    <string name="phone">Phone: +36 1 864512X or 6 or 9 or can"'t remember</string>
+    <string name="open">Opening hours: 0-24 Mon-Sun, when I"'m not bathing in the Sun light.</string>
+    <string name="description">Description: Come and you"'ll see all the cat things we do with coffee.</string>
+    <string name="one_more">My pictures are definitely not copyrighted. Except the background which is from jozara.com :) </string>
+
+</resources>
